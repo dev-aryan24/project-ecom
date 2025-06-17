@@ -1,2 +1,4 @@
 # project-ecom
-This is my first project website called Amicart
+This is my first project website called Amicart.
+
+AV owner.
